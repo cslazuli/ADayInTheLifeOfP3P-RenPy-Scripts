@@ -1,5 +1,7 @@
 # ADayInTheLifeOfP3P RenPy Scripts
  
+itch.io Link to Actual Game: https://cslazuli.itch.io/adayofp3p
+
 This repository contains Ren'Py and Python scripts I wrote to create my demo project "A Day In The Life Of Persona 3 Portable". 
 
 This is a project I made with the goal of gaining a better understanding of how to use the Ren'Py visual novel engine and Python to make a visual novel game. 
